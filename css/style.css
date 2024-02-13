@@ -137,7 +137,7 @@ img:hover, video:hover{
   transition: none;
 }
 
-.main-pet-image:hover {
+.main-pet-image:hover, .main-recipe-image:hover {
   transform: none;
 }
 
